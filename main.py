@@ -43,5 +43,6 @@ def find_same_beside(file_path):
 
 file_name = 'array.txt'
 
+## SUBSTITUE BELOW LINE FOR WHICH FUNCTION YOU'RE USING THIS FOR
 duplicates = find_same_beside(file_name)
 print(duplicates)
